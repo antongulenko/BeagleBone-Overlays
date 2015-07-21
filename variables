@@ -1,0 +1,5 @@
+# Syntax correct both for make file and shell script
+
+SLOTS=/sys/devices/bone_capemgr.*/slots
+FIRMWARE=/lib/firmware
+VERSION=00A0
